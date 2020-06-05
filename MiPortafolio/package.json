@@ -1,0 +1,19 @@
+{
+  "name": "miportafolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "@types/jquery": "^3.3.38",
+    "systemjs": "^0.19.41"
+  }
+}
